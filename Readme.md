@@ -2,6 +2,6 @@
 
 This is a YouTub playlist, Where I'm learning backend
 
-YouTub Chaneel: Chai Our Code
+YouTub Chaneel: Chai Our Code (thank you!)
 
 -[Model link](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
